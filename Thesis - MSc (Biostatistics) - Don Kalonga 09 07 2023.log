@@ -1,0 +1,1752 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.4.28)  10 JUL 2023 11:41
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./Thesis - MSc (Biostatistics) - Don Kalonga 09 07 2023.tex"
+(Thesis - MSc (Biostatistics) - Don Kalonga 09 07 2023.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-04-20>
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry
+.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.s
+ty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.st
+y
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry
+.cfg))
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr
+.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace
+.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/grffile\grffile.s
+ty
+Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legac
+y)
+Package grffile Info: This package is an empty stub for compatibility on input 
+line 40.
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx
+.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics
+.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\grap
+hics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdft
+ex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+))
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec
+.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box51
+\beforetitleunit=\skip59
+\aftertitleunit=\skip60
+\ttl@plus=\dimen151
+\ttl@minus=\dimen152
+\ttl@toksa=\toks18
+\titlewidth=\dimen153
+\titlewidthlast=\dimen154
+\titlewidthfirst=\dimen155
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.s
+ty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.
+sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen156
+\captionmargin=\dimen157
+\caption@leftmargin=\dimen158
+\caption@rightmargin=\dimen159
+\caption@width=\dimen160
+\caption@indent=\dimen161
+\caption@parindent=\dimen162
+\caption@hangindent=\dimen163
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count197
+\c@continuedfloat=\count198
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys
+2e\l3keys2e.sty
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.st
+y
+Package: expl3 2023-04-20 L3 programming layer (loader) 
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backe
+nd-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count199
+\l__pdf_internal_box=\box52
+))
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count266
+\l__lipsum_a_int=\count267
+\l__lipsum_b_int=\count268
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd
+.tex))
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count269
+\calc@Bcount=\count270
+\calc@Adimen=\dimen164
+\calc@Bdimen=\dimen165
+\calc@Askip=\skip61
+\calc@Bskip=\skip62
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count271
+\calc@Cskip=\skip63
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.s
+ty
+Package: eso-pic 2023/03/23 v3.0b eso-pic (RN)
+\ESO@tempdima=\dimen166
+\ESO@tempdimb=\dimen167
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\colo
+r.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolo
+r.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+))
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.s
+ty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip64
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.s
+ty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.st
+y
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen168
+))
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.st
+y
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen169
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.st
+y
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count272
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count273
+\leftroot@=\count274
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count275
+\DOTSCASE@=\count276
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen170
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count277
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count278
+\dotsspace@=\muskip16
+\c@parentequation=\count279
+\dspbrk@lvl=\count280
+\tag@help=\toks20
+\row@=\count281
+\column@=\count282
+\maxfields@=\count283
+\andhelp@=\toks21
+\eqnshift@=\dimen171
+\alignsep@=\dimen172
+\tagshift@=\dimen173
+\tagwidth@=\dimen174
+\totwidth@=\dimen175
+\lineht@=\dimen176
+\@envbody=\toks22
+\multlinegap=\skip65
+\multlinetaggap=\skip66
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.
+sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts
+.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.s
+ty
+Package: relsize 2013/03/29 ver 4.1
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/tabto-ltx\tabto.s
+ty
+Package: tabto 2018/12/28  v 1.4  Another tabbing mechanism
+\CurrentLineWidth=\dimen177
+\TabPrevPos=\dimen178
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen179
+\ar@mcellbox=\box55
+\extrarowheight=\dimen180
+\NC@list=\toks24
+\extratabsurround=\skip67
+\backup@length=\skip68
+\ar@cellbox=\box56
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/verbatimbox\verba
+timbox.sty
+Package: verbatimbox 2014/03/12 v3.13 Routines for placing verbatim text into b
+oxes, useful in places where the verbatim environment is inaccessible. Secondar
+ily, for adding vertical buffer around an object.
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.st
+y
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks25
+\verbatim@line=\toks26
+\verbatim@in@stream=\read2
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/readarray\readarr
+ay.sty
+Package: readarray 2021/09/17\ 3.1\ Routines for inputting 2D and 3D array data
+ and recalling it on an element-by-element basis.
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/forloop\forloop.s
+ty
+Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+))
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/listofitems\listo
+fitems.sty
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/listofitems\lis
+tofitems.tex
+\loi_cnt_foreach_nest=\count284
+\loi_nestcnt=\count285
+)
+Package: listofitems 2019/08/21 v1.63 Grab items in lists using user-specified 
+sep char (CT)
+)
+\c@@index=\count286
+\c@@plane=\count287
+\c@@row=\count288
+\c@@col=\count289
+\c@use@args=\count290
+\c@@record=\count291
+\c@index@count=\count292
+\Arg@toks=\toks27
+\@arrayident@toks=\toks28
+\rdar@file=\read3
+\readarrayendlinechar=\count293
+
+readarray: bounds checking OFF
+)
+\savedverbbox=\box57
+\c@VerbboxLineNo=\count294
+\boxtopsep=\dimen181
+\boxbottomsep=\dimen182
+\ps@tempdima=\dimen183
+\ps@tempboxa=\box58
+\boxtop@sep=\skip69
+\boxbottom@sep=\skip70
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs
+.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen184
+\lightrulewidth=\dimen185
+\cmidrulewidth=\dimen186
+\belowrulesep=\dimen187
+\belowbottomsep=\dimen188
+\aboverulesep=\dimen189
+\abovetopsep=\dimen190
+\cmidrulesep=\dimen191
+\cmidrulekern=\dimen192
+\defaultaddspace=\dimen193
+\@cmidla=\count295
+\@cmidlb=\count296
+\@aboverulesep=\dimen194
+\@belowrulesep=\dimen195
+\@thisruleclass=\count297
+\@lastruleclass=\count298
+\@thisrulewidth=\dimen196
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2023-02-18 v3.0 Permit use of UTF-8 characters in soul (HO)
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.s
+ty
+Package: soul-ori 2023-02-18 v3.0 letterspacing/underlining (mf)
+\SOUL@word=\toks29
+\SOUL@lasttoken=\toks30
+\SOUL@syllable=\toks31
+\SOUL@cmds=\toks32
+\SOUL@buffer=\toks33
+\SOUL@token=\toks34
+\SOUL@syllgoal=\dimen197
+\SOUL@syllwidth=\dimen198
+\SOUL@charkern=\dimen199
+\SOUL@hyphkern=\dimen256
+\SOUL@dimen=\dimen257
+\SOUL@dimeni=\dimen258
+\SOUL@minus=\count299
+\SOUL@comma=\count300
+\SOUL@apo=\count301
+\SOUL@grave=\count302
+\SOUL@spaceskip=\skip71
+\SOUL@ttwidth=\dimen259
+\SOUL@uldp=\dimen260
+\SOUL@ulht=\dimen261
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwa
+rerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcm
+ds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow
+.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip72
+\multirow@cntb=\count303
+\multirow@dima=\skip73
+\bigstrutjot=\dimen262
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\eucal.st
+y
+Package: eucal 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xy.sty
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xy.tex
+Bootstrap'ing: catcodes, docmode,
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyrecat.t
+ex)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyidioms.
+tex)
+
+ Xy-pic version 3.8.9 <2013/10/06>
+ Copyright (c) 1991-2013 by Kristoffer H. Rose <krisrose@tug.org> and others
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state,
+\X@c=\dimen263
+\Y@c=\dimen264
+\U@c=\dimen265
+\D@c=\dimen266
+\L@c=\dimen267
+\R@c=\dimen268
+\Edge@c=\toks35
+\X@p=\dimen269
+\Y@p=\dimen270
+\U@p=\dimen271
+\D@p=\dimen272
+\L@p=\dimen273
+\R@p=\dimen274
+\Edge@p=\toks36
+\X@origin=\dimen275
+\Y@origin=\dimen276
+\X@xbase=\dimen277
+\Y@xbase=\dimen278
+\X@ybase=\dimen279
+\Y@ybase=\dimen280
+\X@min=\dimen281
+\Y@min=\dimen282
+\X@max=\dimen283
+\Y@max=\dimen284
+\lastobjectbox@=\box59
+\zerodotbox@=\box60
+\almostz@=\dimen285
+ direction,
+\d@X=\dimen286
+\d@Y=\dimen287
+\K@=\count304
+\KK@=\count305
+\Direction=\count306
+\K@dXdY=\dimen288
+\K@dYdX=\dimen289
+\xyread@=\read4
+\xywrite@=\write3
+\csp@=\count307
+\quotPTK@=\dimen290
+
+utility macros; pictures: \xy, positions,
+\swaptoks@@=\toks37
+\connectobjectbox@@=\box61
+ objects,
+\styletoks@=\toks38
+ decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+Package: xy 2013/10/06 Xy-pic version 3.8.9
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xymatrix.
+tex  Xy-pic option: Matrix feature v.3.14
+\Row=\count308
+\Col=\count309
+\queue@=\toks39
+\queue@@=\toks40
+\qcount@=\count310
+\qcount@@=\count311
+\matrixsize@=\count312
+ loaded)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyarrow.t
+ex  Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xycurve.t
+ex  Xy-pic option: Curve and Spline extension v.3.12 curve,
+\crv@cnt@=\count313
+\crvpts@=\toks41
+\splinebox@=\box62
+\splineval@=\dimen291
+\splinedepth@=\dimen292
+\splinetol@=\dimen293
+\splinelength@=\dimen294
+ circles,
+\L@=\dimen295
+ loaded)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xypdf.tex
+ Xy-pic option: PDF driver v.1.7 Xy-pic pdf driver: `curve' extension support
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xypdf-cu.
+tex loaded) loaded))
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count314
+\float@exts=\toks42
+\float@box=\box63
+\@float@everytoks=\toks43
+\@floatcapt=\box64
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.s
+ty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks44
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/04/18 3.88 The Babel package
+\babel@savecnt=\count315
+\U@D=\dimen296
+\l@unhyphenated=\language79
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.
+def)
+\bbl@readstream=\read5
+\bbl@dirlevel=\count316
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\eng
+lish.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en
+\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref
+.sty
+Package: hyperref 2023-04-22 v7.00x Hypertext links for LaTeX
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds
+.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdft
+excmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetke
+ys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kv
+definekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfes
+cape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.s
+ty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letlt
+xmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.s
+ty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.
+sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount
+.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\
+gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptio
+ns.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count317
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox
+.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count318
+)
+\@linkdim=\dimen297
+\Hy@linkcounter=\count319
+\Hy@pagecounter=\count320
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.d
+ef
+File: pd1enc.def 2023-04-22 v7.00x Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc
+.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count321
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.de
+f
+File: puenc.def 2023-04-22 v7.00x Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4182.
+Package hyperref Info: Link nesting OFF on input line 4187.
+Package hyperref Info: Hyper index ON on input line 4190.
+Package hyperref Info: Plain pages OFF on input line 4197.
+Package hyperref Info: Backreferencing OFF on input line 4202.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4449.
+\c@Hy@tempcnt=\count322
+ (C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4787.
+\XeTeXLinkMargin=\dimen298
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.s
+ty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigi
+ntcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count323
+\Field@Width=\dimen299
+\Fld@charsize=\dimen300
+Package hyperref Info: Hyper figures OFF on input line 6066.
+Package hyperref Info: Link nesting OFF on input line 6071.
+Package hyperref Info: Hyper index ON on input line 6074.
+Package hyperref Info: backreferencing OFF on input line 6081.
+Package hyperref Info: Link coloring OFF on input line 6086.
+Package hyperref Info: Link coloring with OCG OFF on input line 6091.
+Package hyperref Info: PDF/A mode OFF on input line 6096.
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx
+.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count324
+\c@Item=\count325
+\c@Hfootnote=\count326
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.
+def
+File: hpdftex.def 2023-04-22 v7.00x Hyperref driver for pdfTeX
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-lt
+x.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count327
+\c@bookmark@seq@number=\count328
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\re
+runfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\u
+niquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip74
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (Thesis - MSc (Biostatistics) - Don Kalonga 09 07 2023.aux)
+\openout1 = `"Thesis - MSc (Biostatistics) - Don Kalonga 09 07 2023.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 416.83289pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=416.83289pt
+* \textheight=700.50687pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-
+pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count329
+\scratchdimen=\dimen301
+\scratchbox=\box65
+\nofMPsegments=\count330
+\nofMParguments=\count331
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count332
+\MPscratchDim=\dimen302
+\MPnumerator=\count333
+\makeMPintoPDFobject=\count334
+\everyMPtoPDFconversion=\toks46
+)
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epst
+opdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf
+-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 103
+.
+
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 103
+.
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 10
+3.
+(C:\Users\Don.Kalonga\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Package xypdf Info: Line width: 0.47998pt on input line 103.
+Package hyperref Info: Link coloring OFF on input line 103.
+
+(Thesis - MSc (Biostatistics) - Don Kalonga 09 07 2023.out)
+(Thesis - MSc (Biostatistics) - Don Kalonga 09 07 2023.out)
+\@outlinefile=\write4
+\openout4 = `"Thesis - MSc (Biostatistics) - Don Kalonga 09 07 2023.out"'.
+
+ [1
+
+{C:/Users/Don.Kalonga/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<Unima_Logo.png, id=242, 397.485pt x 469.755pt>
+File: Unima_Logo.png Graphic file (type png)
+<use Unima_Logo.png>
+Package pdftex.def Info: Unima_Logo.png  used on input line 179.
+(pdftex.def)             Requested size: 85.35449pt x 85.35504pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.246 \newpage
+               [1 <./Unima_Logo.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+<Signature_Don Kalonga.png, id=249, 1984.41376pt x 680.5425pt>
+File: Signature_Don Kalonga.png Graphic file (type png)
+<use Signature_Don Kalonga.png>
+Package pdftex.def Info: Signature_Don Kalonga.png  used on input line 284.
+(pdftex.def)             Requested size: 284.50784pt x 85.35835pt.
+[1 <./Signature_Don Kalonga.png>] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
+
+ []
+
+[4]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 416.83289pt, 72.26999pt)
+* v-part:(T,H,B)=(144.54pt, 628.23686pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=416.83289pt
+* \textheight=628.23686pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=35.27pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ [5
+
+] (Thesis - MSc (Biostatistics) - Don Kalonga 09 07 2023.toc [6
+
+] [7])
+\tf@toc=\write5
+\openout5 = `"Thesis - MSc (Biostatistics) - Don Kalonga 09 07 2023.toc"'.
+
+
+[8] (Thesis - MSc (Biostatistics) - Don Kalonga 09 07 2023.lof [9] [10]
+Overfull \hbox (11.34596pt too wide) in paragraph at lines 43--43
+ [][] [][]\T1/cmr/m/n/12 Autocorrelations in the la-tent field at dif-fer-ent l
+ags for spatio-temporal 
+ []
+
+
+Overfull \hbox (11.34596pt too wide) in paragraph at lines 44--44
+ [][] [][]\T1/cmr/m/n/12 Autocorrelations in the la-tent field at dif-fer-ent l
+ags for spatio-temporal 
+ []
+
+[11])
+\tf@lof=\write6
+\openout6 = `"Thesis - MSc (Biostatistics) - Don Kalonga 09 07 2023.lof"'.
+
+ [12] (Thesis - MSc (Biostatistics) - Don Kalonga 09 07 2023.lot)
+\tf@lot=\write7
+\openout7 = `"Thesis - MSc (Biostatistics) - Don Kalonga 09 07 2023.lot"'.
+
+ [13]
+Overfull \hbox (16.91704pt too wide) in paragraph at lines 435--454
+[][] 
+ []
+
+[14]
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
+
+ []
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 471--472
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--474
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+
+ []
+
+[5]
+
+LaTeX Warning: Citation `Diggle2014' on page 6 undefined on input line 498.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--503
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
+
+ []
+
+[6]
+Overfull \hbox (6.9802pt too wide) in paragraph at lines 519--520
+[]\T1/cmr/m/n/12 Is there ev-i-dence for in-ter-ac-tions (com-pe-ti-tion, syn-e
+rgy) be-tween sub-lineages? 
+ []
+
+
+Overfull \hbox (0.25548pt too wide) in paragraph at lines 524--525
+\T1/cmr/m/n/12 The over-all ob-jec-tive of this the-sis project is to con-duct 
+spa-tial and spatio-temporal
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+
+ []
+
+[8] [9]
+Chapter 2.
+[10
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 561--562
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 563--564
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--566
+
+ []
+
+[12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 583--584
+
+ []
+
+[14] [15]
+Overfull \hbox (17.91594pt too wide) in alignment at lines 596--599
+ [][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--603
+
+ []
+
+[16] [17]
+Underfull \hbox (badness 10000) in paragraph at lines 625--626
+
+ []
+
+[18]
+Overfull \hbox (28.1234pt too wide) in paragraph at lines 627--628
+[]\T1/cmr/m/n/12 The back-ground con-di-tional in-ten-sity was de-fined as $\OT
+1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^U[]\OT1/cmr/m/n/12 (\OT1/cmr/bx/n/12 x\OML/cmm
+/m/it/12 ; \OT1/cmr/bx/n/12 y\OML/cmm/m/it/12 ; \OT1/cmr/bx/n/12 t\OT1/cmr/m/n/
+12 )) = \OT1/cmr/bx/n/12 ae[]e[]$
+ []
+
+
+Overfull \hbox (0.69487pt too wide) in paragraph at lines 633--633
+|[]\T1/cmr/bx/n/14.4 Log-Gaussian Cox Pro-cess Model for Am-bu-lance Calls
+ []
+
+
+LaTeX Warning: Citation `Basiya' on page 19 undefined on input line 636.
+
+[19]
+Overfull \hbox (7.24968pt too wide) in paragraph at lines 638--638
+|[]\T1/cmr/bx/n/14.4 Multivariate log-Gaussian Cox Pro-cess Model for Mod-
+ []
+
+[20]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 661--662
+
+ []
+
+[21
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 663--664
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 665--666
+
+ []
+
+[22] [23]
+Underfull \hbox (badness 10000) in paragraph at lines 693--694
+
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 701--702
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 707--708
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--710
+
+ []
+
+
+Overfull \hbox (1.652pt too wide) in paragraph at lines 711--712
+\T1/cmr/m/n/12 mod-els were fit-ted us-ing the R pack-age \T1/cmr/m/it/12 lgcp\
+T1/cmr/m/n/12 [[]][[]]. The \T1/cmr/m/it/12 lgcp \T1/cmr/m/n/12 pack-age uses B
+ayesian
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 711--712
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 713--714
+
+ []
+
+[27] [28] [29]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--736
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<MCET_Project_Data_Merging_Flow_Diagram.png, id=785, 492.33937pt x 409.53pt>
+File: MCET_Project_Data_Merging_Flow_Diagram.png Graphic file (type png)
+<use MCET_Project_Data_Merging_Flow_Diagram.png>
+Package pdftex.def Info: MCET_Project_Data_Merging_Flow_Diagram.png  used on in
+put line 765.
+(pdftex.def)             Requested size: 416.83289pt x 346.73987pt.
+[30
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 769--770
+
+ []
+
+[31 <./MCET_Project_Data_Merging_Flow_Diagram.png>]
+<Cumulative Cases Over Time (All Cases) and Cumulative Cases Over Time By Sub-L
+ineage.png, id=795, 433.62pt x 289.08pt>
+File: Cumulative Cases Over Time (All Cases) and Cumulative Cases Over Time By 
+Sub-Lineage.png Graphic file (type png)
+<use Cumulative Cases Over Time (All Cases) and Cumulative Cases Over Time By S
+ub-Lineage.png>
+Package pdftex.def Info: Cumulative Cases Over Time (All Cases) and Cumulative 
+Cases Over Time By Sub-Lineage.png  used on input line 773.
+(pdftex.def)             Requested size: 416.85272pt x 227.62082pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 778--781
+
+ []
+
+<Sub-lineage.png, id=796, 433.62pt x 216.81pt>
+File: Sub-lineage.png Graphic file (type png)
+<use Sub-lineage.png>
+Package pdftex.def Info: Sub-lineage.png  used on input line 785.
+(pdftex.def)             Requested size: 416.85272pt x 170.72554pt.
+[32 <./Cumulative Cases Over Time (All Cases) and Cumulative Cases Over Time By
+ Sub-Lineage.png>]
+<Spatial distribution of typhoid fever in Blantyre city.png, id=802, 328.22626p
+t x 351.56343pt>
+File: Spatial distribution of typhoid fever in Blantyre city.png Graphic file (
+type png)
+<use Spatial distribution of typhoid fever in Blantyre city.png>
+Package pdftex.def Info: Spatial distribution of typhoid fever in Blantyre city
+.png  used on input line 794.
+(pdftex.def)             Requested size: 227.62326pt x 227.61766pt.
+ [33 <./Sub-lineage.png> <./Spatial distribution of typhoid fever in Blantyre c
+ity.png>]
+<Spatial distribution of typhoid fever in Blantyre by sub-lineage.png, id=810, 
+505.89pt x 433.62pt>
+File: Spatial distribution of typhoid fever in Blantyre by sub-lineage.png Grap
+hic file (type png)
+<use Spatial distribution of typhoid fever in Blantyre by sub-lineage.png>
+Package pdftex.def Info: Spatial distribution of typhoid fever in Blantyre by s
+ub-lineage.png  used on input line 804.
+(pdftex.def)             Requested size: 341.43785pt x 256.085pt.
+ [34 <./Spatial distribution of typhoid fever in Blantyre by sub-lineage.png>]
+<Log Target Plot - ST - All Cases.png, id=816, 361.35pt x 216.81pt>
+File: Log Target Plot - ST - All Cases.png Graphic file (type png)
+<use Log Target Plot - ST - All Cases.png>
+Package pdftex.def Info: Log Target Plot - ST - All Cases.png  used on input li
+ne 822.
+(pdftex.def)             Requested size: 361.34912pt x 216.80946pt.
+ [35]
+<Log Target - Multi-type.png, id=821, 361.35pt x 216.81pt>
+File: Log Target - Multi-type.png Graphic file (type png)
+<use Log Target - Multi-type.png>
+Package pdftex.def Info: Log Target - Multi-type.png  used on input line 831.
+(pdftex.def)             Requested size: 361.34912pt x 216.80946pt.
+ [36 <./Log Target Plot - ST - All Cases.png>]
+<Traceplots for Beta and Eta - All Cases.png, id=827, 433.62pt x 289.08pt>
+File: Traceplots for Beta and Eta - All Cases.png Graphic file (type png)
+<use Traceplots for Beta and Eta - All Cases.png>
+Package pdftex.def Info: Traceplots for Beta and Eta - All Cases.png  used on i
+nput line 845.
+(pdftex.def)             Requested size: 416.85272pt x 199.16986pt.
+
+[37 <./Log Target - Multi-type.png>]
+<Traceplot - Multi-type.png, id=833, 433.62pt x 433.62pt>
+File: Traceplot - Multi-type.png Graphic file (type png)
+<use Traceplot - Multi-type.png>
+Package pdftex.def Info: Traceplot - Multi-type.png  used on input line 852.
+(pdftex.def)             Requested size: 416.85272pt x 284.54257pt.
+ [38 <./Traceplots for Beta and Eta - All Cases.png> <./Traceplot - Multi-type.
+png>]
+<Autocorrelation of Beta and Eta - All Cases.png, id=840, 433.62pt x 361.35pt>
+File: Autocorrelation of Beta and Eta - All Cases.png Graphic file (type png)
+<use Autocorrelation of Beta and Eta - All Cases.png>
+Package pdftex.def Info: Autocorrelation of Beta and Eta - All Cases.png  used 
+on input line 869.
+(pdftex.def)             Requested size: 416.83289pt x 347.37727pt.
+ [39]
+<Autocorrelation of Beta and Eta - Multi-type.png, id=846, 433.62pt x 361.35pt>
+
+File: Autocorrelation of Beta and Eta - Multi-type.png Graphic file (type png)
+<use Autocorrelation of Beta and Eta - Multi-type.png>
+Package pdftex.def Info: Autocorrelation of Beta and Eta - Multi-type.png  used
+ on input line 876.
+(pdftex.def)             Requested size: 416.83289pt x 347.37727pt.
+ [40 <./Autocorrelation of Beta and Eta - All Cases.png>] [41 <./Autocorrelatio
+n of Beta and Eta - Multi-type.png>]
+<Posterior Covariance Function - All Cases.png, id=857, 505.89pt x 216.81pt>
+File: Posterior Covariance Function - All Cases.png Graphic file (type png)
+<use Posterior Covariance Function - All Cases.png>
+Package pdftex.def Info: Posterior Covariance Function - All Cases.png  used on
+ input line 908.
+(pdftex.def)             Requested size: 416.83289pt x 178.6455pt.
+ [42]
+Underfull \hbox (badness 10000) in paragraph at lines 913--914
+
+ []
+
+<Inhomogeneous K Function - All Cases.png, id=862, 433.62pt x 289.08pt>
+File: Inhomogeneous K Function - All Cases.png Graphic file (type png)
+<use Inhomogeneous K Function - All Cases.png>
+Package pdftex.def Info: Inhomogeneous K Function - All Cases.png  used on inpu
+t line 917.
+(pdftex.def)             Requested size: 416.83289pt x 277.90181pt.
+[43 <./Posterior Covariance Function - All Cases.png>]
+<Long term trend of temporal model - All Cases.png, id=868, 563.10374pt x 299.6
+1937pt>
+File: Long term trend of temporal model - All Cases.png Graphic file (type png)
+
+<use Long term trend of temporal model - All Cases.png>
+Package pdftex.def Info: Long term trend of temporal model - All Cases.png  use
+d on input line 924.
+(pdftex.def)             Requested size: 416.83632pt x 142.26581pt.
+<Exceedance Probabilities - All Cases.png, id=869, 361.35pt x 216.81pt>
+File: Exceedance Probabilities - All Cases.png Graphic file (type png)
+<use Exceedance Probabilities - All Cases.png>
+Package pdftex.def Info: Exceedance Probabilities - All Cases.png  used on inpu
+t line 933.
+(pdftex.def)             Requested size: 416.83398pt x 142.27127pt.
+ [44 <./Inhomogeneous K Function - All Cases.png> <./Long term trend of tempora
+l model - All Cases.png>]
+Overfull \hbox (1.99246pt too wide) in paragraph at lines 938--939
+\T1/cmr/m/n/12 Mbayani-Chemusa, Chir-imba, Nkolokoti-Kachere, Nancholi-Manase, 
+Ndi-rande and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 961--962
+
+ []
+
+[45 <./Exceedance Probabilities - All Cases.png>]
+<Posterior Covariance Function - Major 0.png, id=882, 505.89pt x 216.81pt>
+File: Posterior Covariance Function - Major 0.png Graphic file (type png)
+<use Posterior Covariance Function - Major 0.png>
+Package pdftex.def Info: Posterior Covariance Function - Major 0.png  used on i
+nput line 965.
+(pdftex.def)             Requested size: 416.83289pt x 178.6455pt.
+<Inhomogeneous K Function - Major 0.png, id=883, 433.62pt x 289.08pt>
+File: Inhomogeneous K Function - Major 0.png Graphic file (type png)
+<use Inhomogeneous K Function - Major 0.png>
+Package pdftex.def Info: Inhomogeneous K Function - Major 0.png  used on input 
+line 972.
+(pdftex.def)             Requested size: 416.83289pt x 277.90181pt.
+ [46 <./Posterior Covariance Function - Major 0.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 977--978
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 979--980
+
+ []
+
+[47 <./Inhomogeneous K Function - Major 0.png>]
+<Long term trend of temporal model - Major 0.png, id=894, 462.22687pt x 236.383
+12pt>
+File: Long term trend of temporal model - Major 0.png Graphic file (type png)
+<use Long term trend of temporal model - Major 0.png>
+Package pdftex.def Info: Long term trend of temporal model - Major 0.png  used 
+on input line 983.
+(pdftex.def)             Requested size: 416.8326pt x 142.2674pt.
+ [48 <./Long term trend of temporal model - Major 0.png>]
+<Exceedance Probabilities - Major 0.png, id=900, 361.35pt x 216.81pt>
+File: Exceedance Probabilities - Major 0.png Graphic file (type png)
+<use Exceedance Probabilities - Major 0.png>
+Package pdftex.def Info: Exceedance Probabilities - Major 0.png  used on input 
+line 994.
+(pdftex.def)             Requested size: 416.83398pt x 142.27127pt.
+ [49 <./Exceedance Probabilities - Major 0.png>]
+<Long term trend of temporal model - Major 2.png, id=906, 486.31688pt x 236.383
+12pt>
+File: Long term trend of temporal model - Major 2.png Graphic file (type png)
+<use Long term trend of temporal model - Major 2.png>
+Package pdftex.def Info: Long term trend of temporal model - Major 2.png  used 
+on input line 1024.
+(pdftex.def)             Requested size: 416.82928pt x 142.2674pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1030
+
+ []
+
+[50 <./Long term trend of temporal model - Major 2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1032
+
+ []
+
+<Exceedance Probabilities - Major 2.png, id=912, 361.35pt x 216.81pt>
+File: Exceedance Probabilities - Major 2.png Graphic file (type png)
+<use Exceedance Probabilities - Major 2.png>
+Package pdftex.def Info: Exceedance Probabilities - Major 2.png  used on input 
+line 1037.
+(pdftex.def)             Requested size: 416.83398pt x 142.27127pt.
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 1065--1066
+
+ []
+
+[52 <./Exceedance Probabilities - Major 2.png>]
+<Long term trend of temporal model - Major 13456.png, id=923, 563.10374pt x 299
+.61937pt>
+File: Long term trend of temporal model - Major 13456.png Graphic file (type pn
+g)
+<use Long term trend of temporal model - Major 13456.png>
+Package pdftex.def Info: Long term trend of temporal model - Major 13456.png  u
+sed on input line 1071.
+(pdftex.def)             Requested size: 416.83632pt x 142.26581pt.
+ [53]
+Underfull \hbox (badness 10000) in paragraph at lines 1076--1077
+
+ []
+
+<Exceedance Probabilities - Major 13456.png, id=928, 361.35pt x 216.81pt>
+File: Exceedance Probabilities - Major 13456.png Graphic file (type png)
+<use Exceedance Probabilities - Major 13456.png>
+Package pdftex.def Info: Exceedance Probabilities - Major 13456.png  used on in
+put line 1080.
+(pdftex.def)             Requested size: 416.83398pt x 142.27127pt.
+[54 <./Long term trend of temporal model - Major 13456.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1089--1090
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[55 <./Exceedance Probabilities - Major 13456.png>]
+<Conditional probability - Multi-type.png, id=939, 433.62pt x 108.405pt>
+File: Conditional probability - Multi-type.png Graphic file (type png)
+<use Conditional probability - Multi-type.png>
+Package pdftex.def Info: Conditional probability - Multi-type.png  used on inpu
+t line 1116.
+(pdftex.def)             Requested size: 416.83289pt x 104.21317pt.
+ [56]
+Underfull \hbox (badness 10000) in paragraph at lines 1122--1123
+
+ []
+
+[57 <./Conditional probability - Multi-type.png>]
+<Posterior covariance function - Multi-type.png, id=950, 505.89pt x 361.35pt>
+File: Posterior covariance function - Multi-type.png Graphic file (type png)
+<use Posterior covariance function - Multi-type.png>
+Package pdftex.def Info: Posterior covariance function - Multi-type.png  used o
+n input line 1128.
+(pdftex.def)             Requested size: 416.83289pt x 297.7425pt.
+ [58 <./Posterior covariance function - Multi-type.png>] [59]
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1141--1142
+
+ []
+
+[60
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1143--1144
+
+ []
+
+[61]
+Overfull \hbox (5.47644pt too wide) in paragraph at lines 1165--1166
+\T1/cmr/m/n/12 model where spa-tial and tem-po-ral re-la-tion-ships and in-ter-
+ac-tions among sub-lineages
+ []
+
+[62] [63] [64
+
+] [65]
+Underfull \hbox (badness 1442) in paragraph at lines 1210--1211
+\T1/cmr/m/n/12 sian Cox Pro-cesses. Scan-di-na-vian Jour-nal of Statis-tics, 25
+: 451-482.
+ []
+
+[66]
+Underfull \hbox (badness 10000) in paragraph at lines 1220--1221
+[]\T1/cmr/m/n/12 Reinhart, A. (2018). A Re-view of Self-Exciting Spatio-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1220--1221
+\T1/cmr/m/n/12 Temporal Point Pro-cess and Their Ap-pli-ca-tions. Re-trieved fr
+om
+ []
+
+[67] [68]
+<Log Target Plot - ST - Major 0.png, id=999, 361.35pt x 216.81pt>
+File: Log Target Plot - ST - Major 0.png Graphic file (type png)
+<use Log Target Plot - ST - Major 0.png>
+Package pdftex.def Info: Log Target Plot - ST - Major 0.png  used on input line
+ 1252.
+(pdftex.def)             Requested size: 361.34912pt x 216.80946pt.
+<Log Target Plot - ST - Major 2.png, id=1000, 361.35pt x 216.81pt>
+File: Log Target Plot - ST - Major 2.png Graphic file (type png)
+<use Log Target Plot - ST - Major 2.png>
+Package pdftex.def Info: Log Target Plot - ST - Major 2.png  used on input line
+ 1259.
+(pdftex.def)             Requested size: 361.34912pt x 216.80946pt.
+<Log Target Plot - ST - Major 13456.png, id=1001, 361.35pt x 216.81pt>
+File: Log Target Plot - ST - Major 13456.png Graphic file (type png)
+<use Log Target Plot - ST - Major 13456.png>
+Package pdftex.def Info: Log Target Plot - ST - Major 13456.png  used on input 
+line 1266.
+(pdftex.def)             Requested size: 361.34912pt x 216.80946pt.
+ [69 <./Log Target Plot - ST - Major 0.png> <./Log Target Plot - ST - Major 2.p
+ng>] [70 <./Log Target Plot - ST - Major 13456.png>]
+<Traceplots for Beta and Eta - Major 0.png, id=1014, 433.62pt x 361.35pt>
+File: Traceplots for Beta and Eta - Major 0.png Graphic file (type png)
+<use Traceplots for Beta and Eta - Major 0.png>
+Package pdftex.def Info: Traceplots for Beta and Eta - Major 0.png  used on inp
+ut line 1279.
+(pdftex.def)             Requested size: 416.85272pt x 227.62413pt.
+<Traceplots for Beta and Eta - Major 2.png, id=1015, 433.62pt x 361.35pt>
+File: Traceplots for Beta and Eta - Major 2.png Graphic file (type png)
+<use Traceplots for Beta and Eta - Major 2.png>
+Package pdftex.def Info: Traceplots for Beta and Eta - Major 2.png  used on inp
+ut line 1286.
+(pdftex.def)             Requested size: 416.85272pt x 227.62413pt.
+<Traceplots for Beta and Eta - Major 13456.png, id=1016, 433.62pt x 361.35pt>
+File: Traceplots for Beta and Eta - Major 13456.png Graphic file (type png)
+<use Traceplots for Beta and Eta - Major 13456.png>
+Package pdftex.def Info: Traceplots for Beta and Eta - Major 13456.png  used on
+ input line 1293.
+(pdftex.def)             Requested size: 416.85272pt x 227.62413pt.
+ [71 <./Traceplots for Beta and Eta - Major 0.png> <./Traceplots for Beta and E
+ta - Major 2.png>] [72 <./Traceplots for Beta and Eta - Major 13456.png>]
+<Autocorrelations in the Latent Field - All Cases.png, id=1028, 361.35pt x 144.
+54pt>
+File: Autocorrelations in the Latent Field - All Cases.png Graphic file (type p
+ng)
+<use Autocorrelations in the Latent Field - All Cases.png>
+Package pdftex.def Info: Autocorrelations in the Latent Field - All Cases.png  
+used on input line 1306.
+(pdftex.def)             Requested size: 416.83398pt x 170.72551pt.
+<Autocorrelations in the Latent Field - Major 0.png, id=1029, 361.35pt x 216.81
+pt>
+File: Autocorrelations in the Latent Field - Major 0.png Graphic file (type png
+)
+<use Autocorrelations in the Latent Field - Major 0.png>
+Package pdftex.def Info: Autocorrelations in the Latent Field - Major 0.png  us
+ed on input line 1313.
+(pdftex.def)             Requested size: 416.83398pt x 227.63405pt.
+<Autocorrelations in the Latent Field - Major 2.png, id=1030, 361.35pt x 216.81
+pt>
+File: Autocorrelations in the Latent Field - Major 2.png Graphic file (type png
+)
+<use Autocorrelations in the Latent Field - Major 2.png>
+Package pdftex.def Info: Autocorrelations in the Latent Field - Major 2.png  us
+ed on input line 1320.
+(pdftex.def)             Requested size: 416.83398pt x 227.63405pt.
+ [73 <./Autocorrelations in the Latent Field - All Cases.png> <./Autocorrelatio
+ns in the Latent Field - Major 0.png>]
+<Autocorrelations in the Latent Field - Major 13456.png, id=1037, 433.62pt x 28
+9.08pt>
+File: Autocorrelations in the Latent Field - Major 13456.png Graphic file (type
+ png)
+<use Autocorrelations in the Latent Field - Major 13456.png>
+Package pdftex.def Info: Autocorrelations in the Latent Field - Major 13456.png
+  used on input line 1327.
+(pdftex.def)             Requested size: 416.85272pt x 227.62082pt.
+<Autocorrelation in the latent field - Multi-type.png, id=1038, 433.62pt x 289.
+08pt>
+File: Autocorrelation in the latent field - Multi-type.png Graphic file (type p
+ng)
+<use Autocorrelation in the latent field - Multi-type.png>
+Package pdftex.def Info: Autocorrelation in the latent field - Multi-type.png  
+used on input line 1334.
+(pdftex.def)             Requested size: 433.61894pt x 289.07928pt.
+
+Overfull \hbox (16.78606pt too wide) in paragraph at lines 1334--1335
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[74 <./Autocorrelations in the Latent Field - Major 2.png> <./Autocorrelations 
+in the Latent Field - Major 13456.png>]
+<Autocorrelation plots of beta and eta - Major 0.png, id=1045, 433.62pt x 361.3
+5pt>
+File: Autocorrelation plots of beta and eta - Major 0.png Graphic file (type pn
+g)
+<use Autocorrelation plots of beta and eta - Major 0.png>
+Package pdftex.def Info: Autocorrelation plots of beta and eta - Major 0.png  u
+sed on input line 1347.
+(pdftex.def)             Requested size: 416.85272pt x 227.62413pt.
+ [75 <./Autocorrelation in the latent field - Multi-type.png>]
+<Autocorrelation plots of beta and eta - Major 2.png, id=1052, 433.62pt x 361.3
+5pt>
+File: Autocorrelation plots of beta and eta - Major 2.png Graphic file (type pn
+g)
+<use Autocorrelation plots of beta and eta - Major 2.png>
+Package pdftex.def Info: Autocorrelation plots of beta and eta - Major 2.png  u
+sed on input line 1354.
+(pdftex.def)             Requested size: 416.85272pt x 227.62413pt.
+<Autocorrelation plots of beta and eta - Major 13456.png, id=1053, 433.62pt x 3
+61.35pt>
+File: Autocorrelation plots of beta and eta - Major 13456.png Graphic file (typ
+e png)
+<use Autocorrelation plots of beta and eta - Major 13456.png>
+Package pdftex.def Info: Autocorrelation plots of beta and eta - Major 13456.pn
+g  used on input line 1361.
+(pdftex.def)             Requested size: 416.85272pt x 227.62413pt.
+ [76 <./Autocorrelation plots of beta and eta - Major 0.png> <./Autocorrelation
+ plots of beta and eta - Major 2.png>] [77 <./Autocorrelation plots of beta and
+ eta - Major 13456.png>]
+<Posterior Covariance Function - Major 2.png, id=1065, 505.89pt x 216.81pt>
+File: Posterior Covariance Function - Major 2.png Graphic file (type png)
+<use Posterior Covariance Function - Major 2.png>
+Package pdftex.def Info: Posterior Covariance Function - Major 2.png  used on i
+nput line 1374.
+(pdftex.def)             Requested size: 416.83289pt x 178.6455pt.
+<Posterior Covariance Function - Major 13456.png, id=1066, 505.89pt x 216.81pt>
+
+File: Posterior Covariance Function - Major 13456.png Graphic file (type png)
+<use Posterior Covariance Function - Major 13456.png>
+Package pdftex.def Info: Posterior Covariance Function - Major 13456.png  used 
+on input line 1381.
+(pdftex.def)             Requested size: 416.83289pt x 178.6455pt.
+ [78 <./Posterior Covariance Function - Major 2.png> <./Posterior Covariance Fu
+nction - Major 13456.png>]
+<Relative Risk Plot - SP - All Cases.png, id=1073, 505.89pt x 505.89pt>
+File: Relative Risk Plot - SP - All Cases.png Graphic file (type png)
+<use Relative Risk Plot - SP - All Cases.png>
+Package pdftex.def Info: Relative Risk Plot - SP - All Cases.png  used on input
+ line 1394.
+(pdftex.def)             Requested size: 416.83289pt x 416.83948pt.
+<Relative Risk Plot - SP - Major 0.png, id=1074, 505.89pt x 433.62pt>
+File: Relative Risk Plot - SP - Major 0.png Graphic file (type png)
+<use Relative Risk Plot - SP - Major 0.png>
+Package pdftex.def Info: Relative Risk Plot - SP - Major 0.png  used on input l
+ine 1401.
+(pdftex.def)             Requested size: 416.83289pt x 357.29099pt.
+
+[79 <./Relative Risk Plot - SP - All Cases.png (PNG copy)>]
+<Relative Risk Plot - SP - Major 2.png, id=1079, 505.89pt x 289.08pt>
+File: Relative Risk Plot - SP - Major 2.png Graphic file (type png)
+<use Relative Risk Plot - SP - Major 2.png>
+Package pdftex.def Info: Relative Risk Plot - SP - Major 2.png  used on input l
+ine 1408.
+(pdftex.def)             Requested size: 416.83289pt x 238.19398pt.
+ [80 <./Relative Risk Plot - SP - Major 0.png (PNG copy)>]
+<Relative Risk Plot - SP - Major 13456.png, id=1084, 505.89pt x 433.62pt>
+File: Relative Risk Plot - SP - Major 13456.png Graphic file (type png)
+<use Relative Risk Plot - SP - Major 13456.png>
+Package pdftex.def Info: Relative Risk Plot - SP - Major 13456.png  used on inp
+ut line 1415.
+(pdftex.def)             Requested size: 416.83289pt x 357.29099pt.
+ [81 <./Relative Risk Plot - SP - Major 2.png>] [82 <./Relative Risk Plot - SP 
+- Major 13456.png>]
+<Standard Errors Plot - SP - All Cases.png, id=1096, 505.89pt x 505.89pt>
+File: Standard Errors Plot - SP - All Cases.png Graphic file (type png)
+<use Standard Errors Plot - SP - All Cases.png>
+Package pdftex.def Info: Standard Errors Plot - SP - All Cases.png  used on inp
+ut line 1428.
+(pdftex.def)             Requested size: 416.83289pt x 416.83948pt.
+<Standard Errors Plot - SP - Major 0.png, id=1097, 505.89pt x 433.62pt>
+File: Standard Errors Plot - SP - Major 0.png Graphic file (type png)
+<use Standard Errors Plot - SP - Major 0.png>
+Package pdftex.def Info: Standard Errors Plot - SP - Major 0.png  used on input
+ line 1435.
+(pdftex.def)             Requested size: 416.83289pt x 357.29099pt.
+ [83 <./Standard Errors Plot - SP - All Cases.png (PNG copy)>]
+<Standard Errors Plot - SP - Major 2.png, id=1102, 505.89pt x 289.08pt>
+File: Standard Errors Plot - SP - Major 2.png Graphic file (type png)
+<use Standard Errors Plot - SP - Major 2.png>
+Package pdftex.def Info: Standard Errors Plot - SP - Major 2.png  used on input
+ line 1442.
+(pdftex.def)             Requested size: 416.83289pt x 238.19398pt.
+ [84 <./Standard Errors Plot - SP - Major 0.png (PNG copy)>]
+<Standard Errors Plot - SP - Major 13456.png, id=1107, 505.89pt x 433.62pt>
+File: Standard Errors Plot - SP - Major 13456.png Graphic file (type png)
+<use Standard Errors Plot - SP - Major 13456.png>
+Package pdftex.def Info: Standard Errors Plot - SP - Major 13456.png  used on i
+nput line 1449.
+(pdftex.def)             Requested size: 416.83289pt x 357.29099pt.
+ [85 <./Standard Errors Plot - SP - Major 2.png>] [86 <./Standard Errors Plot -
+ SP - Major 13456.png (PNG copy)>]
+<Prior and posterior density plots - All Cases.png, id=1117, 361.35pt x 289.08p
+t>
+File: Prior and posterior density plots - All Cases.png Graphic file (type png)
+
+<use Prior and posterior density plots - All Cases.png>
+Package pdftex.def Info: Prior and posterior density plots - All Cases.png  use
+d on input line 1462.
+(pdftex.def)             Requested size: 416.83398pt x 227.62082pt.
+<Prior and posterior density plots - Major 0.png, id=1118, 361.35pt x 289.08pt>
+
+File: Prior and posterior density plots - Major 0.png Graphic file (type png)
+<use Prior and posterior density plots - Major 0.png>
+Package pdftex.def Info: Prior and posterior density plots - Major 0.png  used 
+on input line 1469.
+(pdftex.def)             Requested size: 416.83398pt x 227.62082pt.
+<Prior and posterior density plots - Major 2.png, id=1119, 361.35pt x 289.08pt>
+
+File: Prior and posterior density plots - Major 2.png Graphic file (type png)
+<use Prior and posterior density plots - Major 2.png>
+Package pdftex.def Info: Prior and posterior density plots - Major 2.png  used 
+on input line 1476.
+(pdftex.def)             Requested size: 416.83398pt x 227.62082pt.
+ [87 <./Prior and posterior density plots - All Cases.png> <./Prior and posteri
+or density plots - Major 0.png>]
+<Prior and posterior density plots - Major 13456.png, id=1127, 361.35pt x 289.0
+8pt>
+File: Prior and posterior density plots - Major 13456.png Graphic file (type pn
+g)
+<use Prior and posterior density plots - Major 13456.png>
+Package pdftex.def Info: Prior and posterior density plots - Major 13456.png  u
+sed on input line 1483.
+(pdftex.def)             Requested size: 416.83398pt x 227.62082pt.
+ [88 <./Prior and posterior density plots - Major 2.png> <./Prior and posterior
+ density plots - Major 13456.png>]
+<Inhomogeneous K Function - Major 2.png, id=1134, 433.62pt x 289.08pt>
+File: Inhomogeneous K Function - Major 2.png Graphic file (type png)
+<use Inhomogeneous K Function - Major 2.png>
+Package pdftex.def Info: Inhomogeneous K Function - Major 2.png  used on input 
+line 1495.
+(pdftex.def)             Requested size: 416.83289pt x 277.90181pt.
+<Inhomogeneous K Function - Major 13456.png, id=1135, 433.62pt x 289.08pt>
+File: Inhomogeneous K Function - Major 13456.png Graphic file (type png)
+<use Inhomogeneous K Function - Major 13456.png>
+Package pdftex.def Info: Inhomogeneous K Function - Major 13456.png  used on in
+put line 1502.
+(pdftex.def)             Requested size: 416.83289pt x 277.90181pt.
+ [89 <./Inhomogeneous K Function - Major 2.png>] [90 <./Inhomogeneous K Functio
+n - Major 13456.png>]
+Overfull \hbox (9.9892pt too wide) in paragraph at lines 1510--1511
+\T1/cmr/m/n/12 GitHub us-ing this link \T1/cmr/m/it/12 https://github.com/donka
+longa/MSc-Project-spatio-temporal-
+ []
+
+[91] (Thesis - MSc (Biostatistics) - Don Kalonga 09 07 2023.aux)
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `"Thesis - MSc (Biostatistics) - Don Kalonga 
+09 07 2023".out' has not changed.
+(rerunfilecheck)             Checksum: ECCBC0FC79832DEEC730C610ED1D046F;12296.
+ ) 
+Here is how much of TeX's memory you used:
+ 18520 strings out of 476315
+ 310542 string characters out of 5784364
+ 1872068 words of memory out of 5000000
+ 38328 multiletter control sequences out of 15000+600000
+ 533264 words of font info for 91 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,12n,77p,1803b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Don.Kalonga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcrm1200.pk> <C:\Users\Don.Kalonga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx2488.pk> <C:\Users\Don.Kalonga\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\Don.Kalonga\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\Don.Kalonga\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Don.Ka
+longa\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\
+Users\Don.Kalonga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1
+440.pk> <C:\Users\Don.Kalonga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecrm1440.pk> <C:\Users\Don.Kalonga\AppData\Local\MiKTeX\fonts/pk/ljfour/
+jknappen/ec/dpi600\ecbx1440.pk><C:/Users/Don.Kalonga/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Don.Kalonga/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx6.pfb><C:/Users/Don.Kalon
+ga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/U
+sers/Don.Kalonga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mex10.pfb><C:/Users/Don.Kalonga/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmmi12.pfb><C:/Users/Don.Kalonga/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Don.Kalonga/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Don.Kalonga/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Do
+n.Kalonga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb
+><C:/Users/Don.Kalonga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb><C:/Users/Don.Kalonga/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmsy6.pfb><C:/Users/Don.Kalonga/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Don.Kalonga/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "Thesis - MSc (Biostatistics) - Don Kalonga 09 07 2023.pdf" (
+107 pages, 20695677 bytes).
+PDF statistics:
+ 1642 PDF objects out of 1728 (max. 8388607)
+ 263 named destinations out of 1000 (max. 500000)
+ 758 words of extra memory for PDF output out of 10000 (max. 10000000)
+
